@@ -1,6 +1,6 @@
 clear
 clc
 load robot_tree.mat
-trajectory
+parameters
 open kinematics.slx
 
